@@ -14,7 +14,7 @@ public class WebpageTest {
         driver = new ChromeDriver();
         driver.manage().window().maximize();
         Thread.sleep(2000);
-        driver.get("https://ashwini-puttaswamygowda.github.io/mvn_p/");
+        driver.get("https://hamsa-gowda.github.io/program_2_Batch_1/");
     }
     @Test
     public void titleValidationTest(){
